@@ -1,0 +1,15 @@
+{
+  "name": "intel-iot-roadshow-demo",
+  "author": "KUANG Qi",
+  "private": true,
+  "version": "0.0.1",
+  "dependencies": {
+    "basic-auth": "^1.0.4",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.1.9",
+    "morgan": "^1.7.0",
+    "mysql": "^2.12.0",
+    "socket.io": "^1.5.1"
+  }
+}
